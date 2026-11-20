@@ -1,5 +1,6 @@
 [
-  { "file": "1-checklist.jpg", "path": "/", "viewport": { "width": 1280, "height": 800 } },
-  { "file": "2-silver.jpg", "path": "/", "grade": "silver", "viewport": { "width": 1280, "height": 800 } },
-  { "file": "3-bronze.jpg", "path": "/", "grade": "bronze", "scroll": 1400, "viewport": { "width": 1280, "height": 800 } }
+  {"file":"1-overview.jpg","path":"/","width":1280,"height":800},
+  {"file":"2-roadmap.jpg","path":"/?view=roadmap","width":1280,"height":800},
+  {"file":"3-trophies.jpg","path":"/?view=trophies","width":1280,"height":800},
+  {"file":"4-missable-detail.jpg","path":"/?trophy=positive-mental-attitude","width":1280,"height":800}
 ]

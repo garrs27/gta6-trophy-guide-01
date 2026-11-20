@@ -1,392 +1,914 @@
 {
- "game": "Grand Theft Auto VI",
- "platform": "PlayStation 5",
- "list": "the official 55 trophies, 2026-11-18",
- "trophies": [
-  {
-   "id": 1,
-   "name": "Vice Got a Price!",
-   "description": "Congratulations! You're a Leonida Legend.",
-   "grade": "platinum",
-   "guide": "Earn the other 54 trophies."
+  "meta": {
+    "game": "Grand Theft Auto VI",
+    "platform": "PS5",
+    "trophy_count": 55,
+    "grade_counts": {
+      "platinum": 1,
+      "gold": 2,
+      "silver": 6,
+      "bronze": 46
+    },
+    "hidden_count": 28,
+    "visible_count": 27,
+    "gamerscore_total": 1000,
+    "release": "2026-11-19",
+    "difficulty": "4/10",
+    "estimated_time": "~200h",
+    "missable_count": 1,
+    "sources": [
+      "PowerPyx",
+      "GTABase",
+      "GTA Zone",
+      "Output Lag"
+    ],
+    "verification_note": "Verified means name, grade, and description are corroborated by at least two guides; reported means name and grade are corroborated while unlock details are still being pinned down; unconfirmed means the public description is known but the exact trigger is not confirmed. Leads for unconfirmed trophies are labelled as leads, not facts.",
+    "categories": [
+      "completion",
+      "activities",
+      "side-stories",
+      "crime",
+      "exploration",
+      "money",
+      "story",
+      "secrets"
+    ]
   },
-  {
-   "id": 2,
-   "name": "Just Like Paradise",
-   "description": "Complete Gone Fishing.",
-   "grade": "bronze",
-   "guide": "Finish the opening mission, Gone Fishing."
-  },
-  {
-   "id": 3,
-   "name": "Paradise Lost",
-   "description": "Complete Chapter 1.",
-   "grade": "bronze",
-   "guide": "Finish Chapter 1."
-  },
-  {
-   "id": 4,
-   "name": "T**s Ass Drug Money",
-   "description": "Complete Chapter 2.",
-   "grade": "bronze",
-   "guide": "Finish Chapter 2."
-  },
-  {
-   "id": 5,
-   "name": "Vice City, Baby!",
-   "description": "Complete Chapter 3.",
-   "grade": "bronze",
-   "guide": "Finish Chapter 3."
-  },
-  {
-   "id": 6,
-   "name": "Top Of The World, Ma",
-   "description": "Complete Chapter 4.",
-   "grade": "bronze",
-   "guide": "Finish Chapter 4."
-  },
-  {
-   "id": 7,
-   "name": "You Gotta Know When to Get Off",
-   "description": "Complete the final mission.",
-   "grade": "gold",
-   "guide": "Finish the final mission (gold)."
-  },
-  {
-   "id": 8,
-   "name": "Trust",
-   "description": "Complete Breakfast Run.",
-   "grade": "bronze",
-   "guide": "Finish the mission Breakfast Run."
-  },
-  {
-   "id": 9,
-   "name": "Break the Bank",
-   "description": "Complete The Cartel Heist.",
-   "grade": "bronze",
-   "guide": "Finish the mission The Cartel Heist."
-  },
-  {
-   "id": 10,
-   "name": "Family Matters",
-   "description": "Complete Child's Play.",
-   "grade": "bronze",
-   "guide": "Finish the mission Child's Play."
-  },
-  {
-   "id": 11,
-   "name": "DWNFALL",
-   "description": "Complete Headliners.",
-   "grade": "bronze",
-   "guide": "Finish the mission Headliners."
-  },
-  {
-   "id": 12,
-   "name": "Hi-Jacked",
-   "description": "Complete VCIA Takedown.",
-   "grade": "bronze",
-   "guide": "Finish the mission VCIA Takedown."
-  },
-  {
-   "id": 13,
-   "name": "Snow Storm",
-   "description": "Complete Operation Savage Glory.",
-   "grade": "bronze",
-   "guide": "Finish the mission Operation Savage Glory."
-  },
-  {
-   "id": 14,
-   "name": "A Long Road",
-   "description": "Attain 100% Completion.",
-   "grade": "gold",
-   "guide": "Reach 100% completion (gold)."
-  },
-  {
-   "id": 15,
-   "name": "Cunning Stunts",
-   "description": "Complete 250 Stunts.",
-   "grade": "silver",
-   "guide": "Pull off 250 stunts (silver)."
-  },
-  {
-   "id": 16,
-   "name": "Master of None",
-   "description": "Try each type of activity once.",
-   "grade": "bronze",
-   "guide": "Try all 9 activity types once."
-  },
-  {
-   "id": 17,
-   "name": "The Shootist",
-   "description": "Earn a gold medal in all Shooting Range challenges.",
-   "grade": "silver",
-   "guide": "Gold all 42 Shooting Range challenges (silver)."
-  },
-  {
-   "id": 18,
-   "name": "Top Fun",
-   "description": "Win a Top Fun Drone Race at every location.",
-   "grade": "bronze",
-   "guide": "Win a Top Fun drone race at all 14 locations."
-  },
-  {
-   "id": 19,
-   "name": "Earn Cash, Not Kudos",
-   "description": "Win 20 different races.",
-   "grade": "bronze",
-   "guide": "Win 20 different races."
-  },
-  {
-   "id": 20,
-   "name": "Baited My Tackle",
-   "description": "Beat Cal in a fishing challenge.",
-   "grade": "bronze",
-   "guide": "Beat Cal in a fishing challenge."
-  },
-  {
-   "id": 21,
-   "name": "Stick Fiddler",
-   "description": "Complete an arcade game.",
-   "grade": "bronze",
-   "guide": "Finish one arcade game."
-  },
-  {
-   "id": 22,
-   "name": "Road to Rehabilitation",
-   "description": "Complete the final mission for Andy.",
-   "grade": "bronze",
-   "guide": "Finish Andy's last mission."
-  },
-  {
-   "id": 23,
-   "name": "This Was No Boat Accident",
-   "description": "Complete the final mission for Kenton.",
-   "grade": "bronze",
-   "guide": "Finish Kenton's last mission."
-  },
-  {
-   "id": 24,
-   "name": "The Lone Rider",
-   "description": "Complete the final mission for Billy.",
-   "grade": "bronze",
-   "guide": "Finish Billy's last mission."
-  },
-  {
-   "id": 25,
-   "name": "Strangers & Freaks",
-   "description": "Complete 8 mission strands for strangers across the state of Leonida.",
-   "grade": "silver",
-   "guide": "Finish 8 stranger strands (silver)."
-  },
-  {
-   "id": 26,
-   "name": "Supply & Demand",
-   "description": "Complete the final mission for Randy.",
-   "grade": "bronze",
-   "guide": "Finish Randy's last mission."
-  },
-  {
-   "id": 27,
-   "name": "Spin On This!",
-   "description": "Complete the final mission for Tyrone.",
-   "grade": "bronze",
-   "guide": "Finish Tyrone's last mission."
-  },
-  {
-   "id": 28,
-   "name": "Positive Mental Attitude",
-   "description": "Meditate at every spot across Leonida.",
-   "grade": "bronze",
-   "guide": "Meditate at all 18 spots."
-  },
-  {
-   "id": 29,
-   "name": "Fair Game",
-   "description": "Hunt a unique animal for Bret.",
-   "grade": "bronze",
-   "guide": "Hunt the unique animal for Bret."
-  },
-  {
-   "id": 30,
-   "name": "Don't Touch My Deck",
-   "description": "Complete 3 Collectible Card sets.",
-   "grade": "silver",
-   "guide": "Complete 3 collectible card sets (silver)."
-  },
-  {
-   "id": 31,
-   "name": "You WAiNKer!",
-   "description": "WAiNK It at 100 locations.",
-   "grade": "silver",
-   "guide": "WAiNK It at 100 locations (silver)."
-  },
-  {
-   "id": 32,
-   "name": "One Last Thing",
-   "description": "Complete 50 Challenges.",
-   "grade": "bronze",
-   "guide": "Finish 50 challenges."
-  },
-  {
-   "id": 33,
-   "name": "Hot Together",
-   "description": "Lose a 4 star Wanted Level with your partner and escape the heat.",
-   "grade": "bronze",
-   "guide": "Lose a 4-star wanted level with your partner."
-  },
-  {
-   "id": 34,
-   "name": "Retail Therapy",
-   "description": "Rob 3 shops back-to-back with your partner without losing your Wanted Level.",
-   "grade": "bronze",
-   "guide": "Rob 3 shops in a row with your partner, keeping your wanted level."
-  },
-  {
-   "id": 35,
-   "name": "Whip It Good",
-   "description": "Discover 100 vehicles.",
-   "grade": "bronze",
-   "guide": "Discover 100 vehicles."
-  },
-  {
-   "id": 36,
-   "name": "Gunslinger",
-   "description": "Take down 5 enemies in a single use of Combat Focus.",
-   "grade": "bronze",
-   "guide": "Down 5 enemies in one Combat Focus."
-  },
-  {
-   "id": 37,
-   "name": "Catch Me If You Can",
-   "description": "Make an unscheduled departure at VCIA.",
-   "grade": "bronze",
-   "guide": "Leave VCIA in an unscheduled way."
-  },
-  {
-   "id": 38,
-   "name": "Challenging Tank",
-   "description": "Kinda hot in these Rhinos.",
-   "grade": "bronze",
-   "guide": "Deal with Rhinos (tanks)."
-  },
-  {
-   "id": 39,
-   "name": "Sneakthief",
-   "description": "Rob a jewelry store without being detected.",
-   "grade": "bronze",
-   "guide": "Rob a jewelry store without being seen."
-  },
-  {
-   "id": 40,
-   "name": "Maximum Withdrawal",
-   "description": "Rob 5 Bank Vaults and escape.",
-   "grade": "silver",
-   "guide": "Rob 5 bank vaults and escape (silver)."
-  },
-  {
-   "id": 41,
-   "name": "A Classic Blitz Play",
-   "description": "Rob an Armored Truck and escape.",
-   "grade": "bronze",
-   "guide": "Rob an armored truck and escape."
-  },
-  {
-   "id": 42,
-   "name": "The Goodtime State",
-   "description": "Explore all of Leonida.",
-   "grade": "bronze",
-   "guide": "Explore all 52 areas of Leonida."
-  },
-  {
-   "id": 43,
-   "name": "Pest Control",
-   "description": "Rob an Illegal Operation belonging to each gang.",
-   "grade": "bronze",
-   "guide": "Rob one illegal operation of each of the 9 gangs."
-  },
-  {
-   "id": 44,
-   "name": "In The Beginning…",
-   "description": "Enjoy a cocktail with a view on Ocean Beach.",
-   "grade": "bronze",
-   "guide": "Have a cocktail with a view on Ocean Beach."
-  },
-  {
-   "id": 45,
-   "name": "Capital Offense",
-   "description": "Smash your way out of a vehicle showroom in classic style.",
-   "grade": "bronze",
-   "guide": "Smash out of a vehicle showroom in style."
-  },
-  {
-   "id": 46,
-   "name": "Let’s Go Bowling",
-   "description": "Follow-through at the Kolt & Associates' bowling alley.",
-   "grade": "bronze",
-   "guide": "Play bowling at the Kolt & Associates alley."
-  },
-  {
-   "id": 47,
-   "name": "Personal Best",
-   "description": "A partnership with mass appeal.",
-   "grade": "bronze",
-   "guide": "A partnership moment with mass appeal."
-  },
-  {
-   "id": 48,
-   "name": "Actions Speak Louder",
-   "description": "Choices made (for better or worse).",
-   "grade": "bronze",
-   "guide": "Make choices (PSN tracks a count to 500)."
-  },
-  {
-   "id": 49,
-   "name": "Bad Luck, I Guess",
-   "description": "Second time's the charm.",
-   "grade": "bronze",
-   "guide": "Succeed on a second try."
-  },
-  {
-   "id": 50,
-   "name": "The Truth Is Out There",
-   "description": "What the hell just happened?",
-   "grade": "bronze",
-   "guide": "Witness something strange."
-  },
-  {
-   "id": 51,
-   "name": "Ten Pin",
-   "description": "Bowl 'em over with a melee drive-by.",
-   "grade": "bronze",
-   "guide": "Knock someone down with a melee drive-by."
-  },
-  {
-   "id": 52,
-   "name": "Dime on the Dollar",
-   "description": "Earn $250,000 laundering Marked Bills through your contacts.",
-   "grade": "bronze",
-   "guide": "Launder $250,000 of marked bills."
-  },
-  {
-   "id": 53,
-   "name": "Treat Yo Self",
-   "description": "Spend $100,000 across all shops.",
-   "grade": "bronze",
-   "guide": "Spend $100,000 in shops."
-  },
-  {
-   "id": 54,
-   "name": "Little Boxes",
-   "description": "Purchase all garage properties.",
-   "grade": "bronze",
-   "guide": "Buy all 8 garage properties."
-  },
-  {
-   "id": 55,
-   "name": "On the Spot",
-   "description": "Register 10 vehicles to the Scooter Bros app.",
-   "grade": "bronze",
-   "guide": "Register 10 vehicles in the Scooter Bros app."
-  }
- ]
+  "trophies": [
+    {
+      "id": "vice-got-a-price",
+      "name": "Vice Got a Price!",
+      "grade": "platinum",
+      "gamerscore": 0,
+      "hidden": false,
+      "category": "completion",
+      "official_description": "Congratulations! You're a Leonida Legend.",
+      "guide": "Finish the full trophy set to close out the platinum. Keep the tracker updated as you go, then check that the other 54 entries are marked earned.",
+      "missable": false,
+      "status": "verified",
+      "sources": [
+        "PowerPyx",
+        "GTA Zone"
+      ]
+    },
+    {
+      "id": "a-long-road",
+      "name": "A Long Road",
+      "grade": "gold",
+      "gamerscore": 100,
+      "hidden": false,
+      "category": "completion",
+      "official_description": "Attain 100% Completion.",
+      "guide": "Use the in-game completion breakdown to clear every activity included in the 100% total. The headline collection targets on this page are route markers; verify the final percentage in the pause menu.",
+      "missable": false,
+      "status": "verified",
+      "sources": [
+        "PowerPyx",
+        "GTA Zone"
+      ]
+    },
+    {
+      "id": "cunning-stunts",
+      "name": "Cunning Stunts",
+      "grade": "silver",
+      "gamerscore": 40,
+      "hidden": false,
+      "category": "activities",
+      "official_description": "Complete 250 Stunts.",
+      "guide": "Build your stunt count across Leonida and keep an eye on the activity total until it reaches 250. The 100% checklist has a separate 300-jump target, so track both counters independently.",
+      "missable": false,
+      "status": "verified",
+      "sources": [
+        "PowerPyx",
+        "GTA Zone"
+      ]
+    },
+    {
+      "id": "the-shootist",
+      "name": "The Shootist",
+      "grade": "silver",
+      "gamerscore": 40,
+      "hidden": false,
+      "category": "activities",
+      "official_description": "Earn a gold medal in all Shooting Range challenges.",
+      "guide": "Visit the Shooting Range and earn gold in each listed challenge, not just a passing medal. Recheck the range menu after each visit to spot any challenge still below gold.",
+      "missable": false,
+      "status": "verified",
+      "sources": [
+        "PowerPyx",
+        "GTA Zone"
+      ]
+    },
+    {
+      "id": "strangers-and-freaks",
+      "name": "Strangers & Freaks",
+      "grade": "silver",
+      "gamerscore": 30,
+      "hidden": false,
+      "category": "side-stories",
+      "official_description": "Complete 8 mission strands for strangers across the state of Leonida.",
+      "guide": "Find strangers around the state and follow each available strand through its final mission. Keep a note of completed characters so you reach eight full strands without repeating early encounters.",
+      "missable": false,
+      "status": "verified",
+      "sources": [
+        "PowerPyx",
+        "GTA Zone"
+      ]
+    },
+    {
+      "id": "master-of-none",
+      "name": "Master of None",
+      "grade": "bronze",
+      "gamerscore": 20,
+      "hidden": false,
+      "category": "activities",
+      "official_description": "Try each type of activity once.",
+      "guide": "Open the activity tied to Master of None and work toward its stated result, checking the in-game counter after each attempt. Track locations or qualifying wins as you go so cleanup shows exactly what remains.",
+      "missable": false,
+      "status": "verified",
+      "sources": [
+        "PowerPyx",
+        "GTA Zone"
+      ]
+    },
+    {
+      "id": "earn-cash-not-kudos",
+      "name": "Earn Cash, Not Kudos",
+      "grade": "bronze",
+      "gamerscore": 20,
+      "hidden": false,
+      "category": "activities",
+      "official_description": "Win 20 different races.",
+      "guide": "Open the activity tied to Earn Cash, Not Kudos and work toward its stated result, checking the in-game counter after each attempt. Track locations or qualifying wins as you go so cleanup shows exactly what remains.",
+      "missable": false,
+      "status": "verified",
+      "sources": [
+        "PowerPyx",
+        "GTA Zone"
+      ]
+    },
+    {
+      "id": "top-fun",
+      "name": "Top Fun",
+      "grade": "bronze",
+      "gamerscore": 15,
+      "hidden": false,
+      "category": "activities",
+      "official_description": "Win a Top Fun Drone Race at every location.",
+      "guide": "Open the activity tied to Top Fun and work toward its stated result, checking the in-game counter after each attempt. Track locations or qualifying wins as you go so cleanup shows exactly what remains.",
+      "missable": false,
+      "status": "verified",
+      "sources": [
+        "PowerPyx",
+        "GTA Zone"
+      ]
+    },
+    {
+      "id": "baited-my-tackle",
+      "name": "Baited My Tackle",
+      "grade": "bronze",
+      "gamerscore": 10,
+      "hidden": false,
+      "category": "activities",
+      "official_description": "Beat Cal in a fishing challenge.",
+      "guide": "Open the activity tied to Baited My Tackle and work toward its stated result, checking the in-game counter after each attempt. Track locations or qualifying wins as you go so cleanup shows exactly what remains.",
+      "missable": false,
+      "status": "verified",
+      "sources": [
+        "PowerPyx",
+        "GTA Zone"
+      ]
+    },
+    {
+      "id": "stick-fiddler",
+      "name": "Stick Fiddler",
+      "grade": "bronze",
+      "gamerscore": 10,
+      "hidden": false,
+      "category": "activities",
+      "official_description": "Complete an arcade game.",
+      "guide": "Open the activity tied to Stick Fiddler and work toward its stated result, checking the in-game counter after each attempt. Track locations or qualifying wins as you go so cleanup shows exactly what remains.",
+      "missable": false,
+      "status": "verified",
+      "sources": [
+        "PowerPyx",
+        "GTA Zone"
+      ]
+    },
+    {
+      "id": "positive-mental-attitude",
+      "name": "Positive Mental Attitude",
+      "grade": "bronze",
+      "gamerscore": 10,
+      "hidden": false,
+      "category": "activities",
+      "official_description": "Meditate at every spot across Leonida.",
+      "guide": "During Lucia’s Chapter 1, complete the balcony meditation and visit every meditation spot you can reach across Leonida. Save before leaving the chapter: this is the only missable trophy, and there is no mission replay or New Game+.",
+      "missable": true,
+      "status": "verified",
+      "sources": [
+        "PowerPyx",
+        "GTA Zone"
+      ]
+    },
+    {
+      "id": "one-last-thing",
+      "name": "One Last Thing",
+      "grade": "bronze",
+      "gamerscore": 5,
+      "hidden": false,
+      "category": "activities",
+      "official_description": "Complete 50 Challenges.",
+      "guide": "Open the activity tied to One Last Thing and work toward its stated result, checking the in-game counter after each attempt. Track locations or qualifying wins as you go so cleanup shows exactly what remains.",
+      "missable": false,
+      "status": "verified",
+      "sources": [
+        "PowerPyx",
+        "GTA Zone"
+      ]
+    },
+    {
+      "id": "maximum-withdrawal",
+      "name": "Maximum Withdrawal",
+      "grade": "silver",
+      "gamerscore": 40,
+      "hidden": false,
+      "category": "crime",
+      "official_description": "Rob 5 Bank Vaults and escape.",
+      "guide": "Target five bank vault robberies and plan an escape route before each attempt. A robbery only counts once you get clear, so confirm the counter after escaping rather than counting an interrupted job.",
+      "missable": false,
+      "status": "verified",
+      "sources": [
+        "PowerPyx",
+        "GTA Zone"
+      ]
+    },
+    {
+      "id": "hot-together",
+      "name": "Hot Together",
+      "grade": "bronze",
+      "gamerscore": 20,
+      "hidden": false,
+      "category": "crime",
+      "official_description": "Lose a 4 star Wanted Level with your partner and escape the heat.",
+      "guide": "Set up the crime challenge associated with Hot Together and meet its escape, stealth, or combat condition in the same attempt when required. Choose a route before starting, then confirm the tracker records the result.",
+      "missable": false,
+      "status": "verified",
+      "sources": [
+        "PowerPyx",
+        "GTA Zone"
+      ]
+    },
+    {
+      "id": "retail-therapy",
+      "name": "Retail Therapy",
+      "grade": "bronze",
+      "gamerscore": 20,
+      "hidden": false,
+      "category": "crime",
+      "official_description": "Rob 3 shops back-to-back with your partner without losing your Wanted Level.",
+      "guide": "Set up the crime challenge associated with Retail Therapy and meet its escape, stealth, or combat condition in the same attempt when required. Choose a route before starting, then confirm the tracker records the result.",
+      "missable": false,
+      "status": "verified",
+      "sources": [
+        "PowerPyx",
+        "GTA Zone"
+      ]
+    },
+    {
+      "id": "pest-control",
+      "name": "Pest Control",
+      "grade": "bronze",
+      "gamerscore": 20,
+      "hidden": false,
+      "category": "crime",
+      "official_description": "Rob an Illegal Operation belonging to each gang.",
+      "guide": "Set up the crime challenge associated with Pest Control and meet its escape, stealth, or combat condition in the same attempt when required. Choose a route before starting, then confirm the tracker records the result.",
+      "missable": false,
+      "status": "verified",
+      "sources": [
+        "PowerPyx",
+        "GTA Zone"
+      ]
+    },
+    {
+      "id": "gunslinger",
+      "name": "Gunslinger",
+      "grade": "bronze",
+      "gamerscore": 10,
+      "hidden": false,
+      "category": "crime",
+      "official_description": "Take down 5 enemies in a single use of Combat Focus.",
+      "guide": "Set up the crime challenge associated with Gunslinger and meet its escape, stealth, or combat condition in the same attempt when required. Choose a route before starting, then confirm the tracker records the result.",
+      "missable": false,
+      "status": "verified",
+      "sources": [
+        "PowerPyx",
+        "GTA Zone"
+      ]
+    },
+    {
+      "id": "sneakthief",
+      "name": "Sneakthief",
+      "grade": "bronze",
+      "gamerscore": 10,
+      "hidden": false,
+      "category": "crime",
+      "official_description": "Rob a jewelry store without being detected.",
+      "guide": "Set up the crime challenge associated with Sneakthief and meet its escape, stealth, or combat condition in the same attempt when required. Choose a route before starting, then confirm the tracker records the result.",
+      "missable": false,
+      "status": "verified",
+      "sources": [
+        "PowerPyx",
+        "GTA Zone"
+      ]
+    },
+    {
+      "id": "a-classic-blitz-play",
+      "name": "A Classic Blitz Play",
+      "grade": "bronze",
+      "gamerscore": 10,
+      "hidden": false,
+      "category": "crime",
+      "official_description": "Rob an Armored Truck and escape.",
+      "guide": "Set up the crime challenge associated with A Classic Blitz Play and meet its escape, stealth, or combat condition in the same attempt when required. Choose a route before starting, then confirm the tracker records the result.",
+      "missable": false,
+      "status": "verified",
+      "sources": [
+        "PowerPyx",
+        "GTA Zone"
+      ]
+    },
+    {
+      "id": "dont-touch-my-deck",
+      "name": "Don't Touch My Deck",
+      "grade": "silver",
+      "gamerscore": 30,
+      "hidden": false,
+      "category": "exploration",
+      "official_description": "Complete 3 Collectible Card sets.",
+      "guide": "Collect the cards needed to finish three complete sets. Use the collection screen to identify gaps in each set before travelling back out for more cards.",
+      "missable": false,
+      "status": "verified",
+      "sources": [
+        "PowerPyx",
+        "GTA Zone"
+      ]
+    },
+    {
+      "id": "you-wainker",
+      "name": "You WAiNKer!",
+      "grade": "silver",
+      "gamerscore": 30,
+      "hidden": false,
+      "category": "exploration",
+      "official_description": "WAiNK It at 100 locations.",
+      "guide": "Use WAiNK at 100 distinct locations and watch the location count as it advances. Vary your route through the map and check the app counter so repeated spots do not waste time.",
+      "missable": false,
+      "status": "verified",
+      "sources": [
+        "PowerPyx",
+        "GTA Zone"
+      ]
+    },
+    {
+      "id": "the-goodtime-state",
+      "name": "The Goodtime State",
+      "grade": "bronze",
+      "gamerscore": 20,
+      "hidden": false,
+      "category": "exploration",
+      "official_description": "Explore all of Leonida.",
+      "guide": "Explore every region of Leonida and watch for uncovered areas on the map. Sweep the remaining blank edges during cleanup, then check the map again for any unexplored pockets.",
+      "missable": false,
+      "status": "verified",
+      "sources": [
+        "PowerPyx",
+        "GTA Zone"
+      ]
+    },
+    {
+      "id": "whip-it-good",
+      "name": "Whip It Good",
+      "grade": "bronze",
+      "gamerscore": 20,
+      "hidden": false,
+      "category": "exploration",
+      "official_description": "Discover 100 vehicles.",
+      "guide": "Search Leonida for the discovery linked to Whip It Good and confirm each qualifying find in the map or collection tracker. Use a simple checklist to avoid revisiting completed places.",
+      "missable": false,
+      "status": "verified",
+      "sources": [
+        "PowerPyx",
+        "GTA Zone"
+      ]
+    },
+    {
+      "id": "dime-on-the-dollar",
+      "name": "Dime on the Dollar",
+      "grade": "bronze",
+      "gamerscore": 20,
+      "hidden": false,
+      "category": "money",
+      "official_description": "Earn $250,000 laundering Marked Bills through your contacts.",
+      "guide": "Launder Marked Bills through your contacts until the total earned reaches $250,000. Check the money or activity counter between runs and keep the funds available for other spending goals.",
+      "missable": false,
+      "status": "verified",
+      "sources": [
+        "PowerPyx",
+        "GTA Zone"
+      ]
+    },
+    {
+      "id": "treat-yo-self",
+      "name": "Treat Yo Self",
+      "grade": "bronze",
+      "gamerscore": 15,
+      "hidden": false,
+      "category": "money",
+      "official_description": "Spend $100,000 across all shops.",
+      "guide": "Work toward the spending or earning target linked to Treat Yo Self, checking the relevant counter after each transaction or run. Leave a manual note of progress if the game separates totals across different activities.",
+      "missable": false,
+      "status": "verified",
+      "sources": [
+        "PowerPyx",
+        "GTA Zone"
+      ]
+    },
+    {
+      "id": "little-boxes",
+      "name": "Little Boxes",
+      "grade": "bronze",
+      "gamerscore": 15,
+      "hidden": false,
+      "category": "money",
+      "official_description": "Purchase all garage properties.",
+      "guide": "Work toward the spending or earning target linked to Little Boxes, checking the relevant counter after each transaction or run. Leave a manual note of progress if the game separates totals across different activities.",
+      "missable": false,
+      "status": "verified",
+      "sources": [
+        "PowerPyx",
+        "GTA Zone"
+      ]
+    },
+    {
+      "id": "on-the-spot",
+      "name": "On the Spot",
+      "grade": "bronze",
+      "gamerscore": 15,
+      "hidden": false,
+      "category": "money",
+      "official_description": "Register 10 vehicles to the Scooter Bros app.",
+      "guide": "Work toward the spending or earning target linked to On the Spot, checking the relevant counter after each transaction or run. Leave a manual note of progress if the game separates totals across different activities.",
+      "missable": false,
+      "status": "verified",
+      "sources": [
+        "PowerPyx",
+        "GTA Zone"
+      ]
+    },
+    {
+      "id": "you-gotta-know-when-to-get-off",
+      "name": "You Gotta Know When to Get Off",
+      "grade": "gold",
+      "gamerscore": 50,
+      "hidden": true,
+      "category": "story",
+      "official_description": "Complete the final mission.",
+      "guide": "Push the main campaign through its final mission and wait for the completion state to register. Keep a manual save before the finale because missions cannot be replayed and New Game+ is unavailable.",
+      "missable": false,
+      "status": "verified",
+      "sources": [
+        "PowerPyx",
+        "GTA Zone"
+      ]
+    },
+    {
+      "id": "break-the-bank",
+      "name": "Break the Bank",
+      "grade": "bronze",
+      "gamerscore": 25,
+      "hidden": true,
+      "category": "story",
+      "official_description": "Complete The Cartel Heist.",
+      "guide": "Progress the campaign to the story milestone associated with Break the Bank; the trophy should register after the relevant mission is marked complete. Keep a manual save before major story transitions, since there is no mission replay or New Game+.",
+      "missable": false,
+      "status": "verified",
+      "sources": [
+        "PowerPyx",
+        "GTA Zone"
+      ]
+    },
+    {
+      "id": "hi-jacked",
+      "name": "Hi-Jacked",
+      "grade": "bronze",
+      "gamerscore": 25,
+      "hidden": true,
+      "category": "story",
+      "official_description": "Complete VCIA Takedown.",
+      "guide": "Progress the campaign to the story milestone associated with Hi-Jacked; the trophy should register after the relevant mission is marked complete. Keep a manual save before major story transitions, since there is no mission replay or New Game+.",
+      "missable": false,
+      "status": "verified",
+      "sources": [
+        "PowerPyx",
+        "GTA Zone"
+      ]
+    },
+    {
+      "id": "snow-storm",
+      "name": "Snow Storm",
+      "grade": "bronze",
+      "gamerscore": 25,
+      "hidden": true,
+      "category": "story",
+      "official_description": "Complete Operation Savage Glory.",
+      "guide": "Progress the campaign to the story milestone associated with Snow Storm; the trophy should register after the relevant mission is marked complete. Keep a manual save before major story transitions, since there is no mission replay or New Game+.",
+      "missable": false,
+      "status": "verified",
+      "sources": [
+        "PowerPyx",
+        "GTA Zone"
+      ]
+    },
+    {
+      "id": "paradise-lost",
+      "name": "Paradise Lost",
+      "grade": "bronze",
+      "gamerscore": 20,
+      "hidden": true,
+      "category": "story",
+      "official_description": "Complete Chapter 1.",
+      "guide": "Progress the campaign to the story milestone associated with Paradise Lost; the trophy should register after the relevant mission is marked complete. Keep a manual save before major story transitions, since there is no mission replay or New Game+.",
+      "missable": false,
+      "status": "verified",
+      "sources": [
+        "PowerPyx",
+        "GTA Zone"
+      ]
+    },
+    {
+      "id": "t-ass-drug-money",
+      "name": "T**s Ass Drug Money",
+      "grade": "bronze",
+      "gamerscore": 20,
+      "hidden": true,
+      "category": "story",
+      "official_description": "Complete Chapter 2.",
+      "guide": "Progress the campaign to the story milestone associated with T**s Ass Drug Money; the trophy should register after the relevant mission is marked complete. Keep a manual save before major story transitions, since there is no mission replay or New Game+.",
+      "missable": false,
+      "status": "reported",
+      "sources": [
+        "PowerPyx",
+        "GTABase"
+      ]
+    },
+    {
+      "id": "vice-city-baby",
+      "name": "Vice City, Baby!",
+      "grade": "bronze",
+      "gamerscore": 20,
+      "hidden": true,
+      "category": "story",
+      "official_description": "Complete Chapter 3.",
+      "guide": "Progress the campaign to the story milestone associated with Vice City, Baby!; the trophy should register after the relevant mission is marked complete. Keep a manual save before major story transitions, since there is no mission replay or New Game+.",
+      "missable": false,
+      "status": "verified",
+      "sources": [
+        "PowerPyx",
+        "GTA Zone"
+      ]
+    },
+    {
+      "id": "top-of-the-world-ma",
+      "name": "Top Of The World, Ma",
+      "grade": "bronze",
+      "gamerscore": 20,
+      "hidden": true,
+      "category": "story",
+      "official_description": "Complete Chapter 4.",
+      "guide": "Progress the campaign to the story milestone associated with Top Of The World, Ma; the trophy should register after the relevant mission is marked complete. Keep a manual save before major story transitions, since there is no mission replay or New Game+.",
+      "missable": false,
+      "status": "verified",
+      "sources": [
+        "PowerPyx",
+        "GTA Zone"
+      ]
+    },
+    {
+      "id": "family-matters",
+      "name": "Family Matters",
+      "grade": "bronze",
+      "gamerscore": 15,
+      "hidden": true,
+      "category": "story",
+      "official_description": "Complete Child's Play.",
+      "guide": "Progress the campaign to the story milestone associated with Family Matters; the trophy should register after the relevant mission is marked complete. Keep a manual save before major story transitions, since there is no mission replay or New Game+.",
+      "missable": false,
+      "status": "verified",
+      "sources": [
+        "PowerPyx",
+        "GTA Zone"
+      ]
+    },
+    {
+      "id": "downfall",
+      "name": "DWNFALL",
+      "grade": "bronze",
+      "gamerscore": 15,
+      "hidden": true,
+      "category": "story",
+      "official_description": "Complete Headliners.",
+      "guide": "Progress the campaign to the story milestone associated with DWNFALL; the trophy should register after the relevant mission is marked complete. Keep a manual save before major story transitions, since there is no mission replay or New Game+.",
+      "missable": false,
+      "status": "verified",
+      "sources": [
+        "PowerPyx",
+        "GTA Zone"
+      ]
+    },
+    {
+      "id": "trust",
+      "name": "Trust",
+      "grade": "bronze",
+      "gamerscore": 10,
+      "hidden": true,
+      "category": "story",
+      "official_description": "Complete Breakfast Run.",
+      "guide": "Progress the campaign to the story milestone associated with Trust; the trophy should register after the relevant mission is marked complete. Keep a manual save before major story transitions, since there is no mission replay or New Game+.",
+      "missable": false,
+      "status": "verified",
+      "sources": [
+        "PowerPyx",
+        "GTA Zone"
+      ]
+    },
+    {
+      "id": "just-like-paradise",
+      "name": "Just Like Paradise",
+      "grade": "bronze",
+      "gamerscore": 5,
+      "hidden": true,
+      "category": "story",
+      "official_description": "Complete Gone Fishing.",
+      "guide": "Progress the campaign to the story milestone associated with Just Like Paradise; the trophy should register after the relevant mission is marked complete. Keep a manual save before major story transitions, since there is no mission replay or New Game+.",
+      "missable": false,
+      "status": "verified",
+      "sources": [
+        "PowerPyx",
+        "GTA Zone"
+      ]
+    },
+    {
+      "id": "supply-and-demand",
+      "name": "Supply & Demand",
+      "grade": "bronze",
+      "gamerscore": 20,
+      "hidden": true,
+      "category": "side-stories",
+      "official_description": "Complete the final mission for Randy.",
+      "guide": "Find the stranger connected with Supply & Demand and keep following that character’s markers until the strand reaches its conclusion. Recheck nearby areas for a follow-up marker if the story pauses.",
+      "missable": false,
+      "status": "verified",
+      "sources": [
+        "PowerPyx",
+        "GTA Zone"
+      ]
+    },
+    {
+      "id": "road-to-rehabilitation",
+      "name": "Road to Rehabilitation",
+      "grade": "bronze",
+      "gamerscore": 15,
+      "hidden": true,
+      "category": "side-stories",
+      "official_description": "Complete the final mission for Andy.",
+      "guide": "Find the stranger connected with Road to Rehabilitation and keep following that character’s markers until the strand reaches its conclusion. Recheck nearby areas for a follow-up marker if the story pauses.",
+      "missable": false,
+      "status": "verified",
+      "sources": [
+        "PowerPyx",
+        "GTA Zone"
+      ]
+    },
+    {
+      "id": "this-was-no-boat-accident",
+      "name": "This Was No Boat Accident",
+      "grade": "bronze",
+      "gamerscore": 15,
+      "hidden": true,
+      "category": "side-stories",
+      "official_description": "Complete the final mission for Kenton.",
+      "guide": "Find the stranger connected with This Was No Boat Accident and keep following that character’s markers until the strand reaches its conclusion. Recheck nearby areas for a follow-up marker if the story pauses.",
+      "missable": false,
+      "status": "verified",
+      "sources": [
+        "PowerPyx",
+        "GTA Zone"
+      ]
+    },
+    {
+      "id": "the-lone-rider",
+      "name": "The Lone Rider",
+      "grade": "bronze",
+      "gamerscore": 15,
+      "hidden": true,
+      "category": "side-stories",
+      "official_description": "Complete the final mission for Billy.",
+      "guide": "Find the stranger connected with The Lone Rider and keep following that character’s markers until the strand reaches its conclusion. Recheck nearby areas for a follow-up marker if the story pauses.",
+      "missable": false,
+      "status": "verified",
+      "sources": [
+        "PowerPyx",
+        "GTA Zone"
+      ]
+    },
+    {
+      "id": "spin-on-this",
+      "name": "Spin On This!",
+      "grade": "bronze",
+      "gamerscore": 15,
+      "hidden": true,
+      "category": "side-stories",
+      "official_description": "Complete the final mission for Tyrone.",
+      "guide": "Find the stranger connected with Spin On This! and keep following that character’s markers until the strand reaches its conclusion. Recheck nearby areas for a follow-up marker if the story pauses.",
+      "missable": false,
+      "status": "verified",
+      "sources": [
+        "PowerPyx",
+        "GTA Zone"
+      ]
+    },
+    {
+      "id": "fair-game",
+      "name": "Fair Game",
+      "grade": "bronze",
+      "gamerscore": 15,
+      "hidden": true,
+      "category": "side-stories",
+      "official_description": "Hunt a unique animal for Bret.",
+      "guide": "Find the stranger connected with Fair Game and keep following that character’s markers until the strand reaches its conclusion. Recheck nearby areas for a follow-up marker if the story pauses.",
+      "missable": false,
+      "status": "reported",
+      "sources": [
+        "PowerPyx",
+        "GTABase"
+      ]
+    },
+    {
+      "id": "catch-me-if-you-can",
+      "name": "Catch Me If You Can",
+      "grade": "bronze",
+      "gamerscore": 10,
+      "hidden": true,
+      "category": "crime",
+      "official_description": "Make an unscheduled departure at VCIA.",
+      "guide": "Set up the crime challenge associated with Catch Me If You Can and meet its escape, stealth, or combat condition in the same attempt when required. Choose a route before starting, then confirm the tracker records the result.",
+      "missable": false,
+      "status": "verified",
+      "sources": [
+        "PowerPyx",
+        "GTA Zone"
+      ]
+    },
+    {
+      "id": "challenging-tank",
+      "name": "Challenging Tank",
+      "grade": "bronze",
+      "gamerscore": 10,
+      "hidden": true,
+      "category": "crime",
+      "official_description": "Kinda hot in these Rhinos.",
+      "guide": "Set up the crime challenge associated with Challenging Tank and meet its escape, stealth, or combat condition in the same attempt when required. Choose a route before starting, then confirm the tracker records the result.",
+      "missable": false,
+      "status": "verified",
+      "sources": [
+        "PowerPyx",
+        "GTA Zone"
+      ]
+    },
+    {
+      "id": "in-the-beginning",
+      "name": "In The Beginning…",
+      "grade": "bronze",
+      "gamerscore": 5,
+      "hidden": true,
+      "category": "secrets",
+      "official_description": "Enjoy a cocktail with a view on Ocean Beach.",
+      "guide": "Lead (not confirmed): the description suggests a scenic Ocean Beach cocktail, but the exact interaction is not confirmed. Explore the beachfront with a drink only as a lead, and check for the unlock before concluding anything.",
+      "missable": false,
+      "status": "unconfirmed",
+      "sources": [
+        "PowerPyx"
+      ]
+    },
+    {
+      "id": "capital-offense",
+      "name": "Capital Offense",
+      "grade": "bronze",
+      "gamerscore": 5,
+      "hidden": true,
+      "category": "crime",
+      "official_description": "Smash your way out of a vehicle showroom in classic style.",
+      "guide": "Lead (not confirmed): the description points toward forcing a way out of a vehicle showroom, but the exact place and sequence are not confirmed. Treat that interpretation as a lead and confirm the notification in-game.",
+      "missable": false,
+      "status": "unconfirmed",
+      "sources": [
+        "PowerPyx"
+      ]
+    },
+    {
+      "id": "lets-go-bowling",
+      "name": "Let's Go Bowling",
+      "grade": "bronze",
+      "gamerscore": 5,
+      "hidden": true,
+      "category": "crime",
+      "official_description": "Follow-through at the Kolt & Associates' bowling alley.",
+      "guide": "Set up the crime challenge associated with Let's Go Bowling and meet its escape, stealth, or combat condition in the same attempt when required. Choose a route before starting, then confirm the tracker records the result.",
+      "missable": false,
+      "status": "verified",
+      "sources": [
+        "PowerPyx",
+        "GTA Zone"
+      ]
+    },
+    {
+      "id": "personal-best",
+      "name": "Personal Best",
+      "grade": "bronze",
+      "gamerscore": 5,
+      "hidden": true,
+      "category": "activities",
+      "official_description": "A partnership with mass appeal.",
+      "guide": "Open the activity tied to Personal Best and work toward its stated result, checking the in-game counter after each attempt. Track locations or qualifying wins as you go so cleanup shows exactly what remains.",
+      "missable": false,
+      "status": "verified",
+      "sources": [
+        "PowerPyx",
+        "GTA Zone"
+      ]
+    },
+    {
+      "id": "actions-speak-louder",
+      "name": "Actions Speak Louder",
+      "grade": "bronze",
+      "gamerscore": 5,
+      "hidden": true,
+      "category": "secrets",
+      "official_description": "Choices made (for better or worse).",
+      "guide": "Explore for the unusual event associated with Actions Speak Louder, paying attention to one-off interactions that match its public clue. Save first, and verify the unlock notification instead of assuming a nearby event counted.",
+      "missable": false,
+      "status": "verified",
+      "sources": [
+        "PowerPyx",
+        "GTA Zone"
+      ]
+    },
+    {
+      "id": "bad-luck-i-guess",
+      "name": "Bad Luck, I Guess",
+      "grade": "bronze",
+      "gamerscore": 5,
+      "hidden": true,
+      "category": "secrets",
+      "official_description": "Second time's the charm.",
+      "guide": "Lead (not confirmed): PowerPyx currently points to the Payday Loans store from the Prologue. Revisit that location only as an experiment; the exact trigger remains unconfirmed, so check for the unlock instead of treating the lead as fact.",
+      "missable": false,
+      "status": "unconfirmed",
+      "sources": [
+        "PowerPyx"
+      ]
+    },
+    {
+      "id": "the-truth-is-out-there",
+      "name": "The Truth Is Out There",
+      "grade": "bronze",
+      "gamerscore": 5,
+      "hidden": true,
+      "category": "secrets",
+      "official_description": "What the hell just happened?",
+      "guide": "Lead (not confirmed): the description hints at an unusual event, but no exact trigger is confirmed. Keep this as a mystery during exploration and do not treat any suggested encounter as established fact.",
+      "missable": false,
+      "status": "unconfirmed",
+      "sources": [
+        "PowerPyx"
+      ]
+    },
+    {
+      "id": "ten-pin",
+      "name": "Ten Pin",
+      "grade": "bronze",
+      "gamerscore": 5,
+      "hidden": true,
+      "category": "crime",
+      "official_description": "Bowl 'em over with a melee drive-by.",
+      "guide": "Lead (not confirmed): PowerPyx currently points to kicking enemies while riding a motorcycle; this corrects the bowling-alley interpretation. Try it only as an experiment and verify the trophy notification, since the exact trigger remains unconfirmed.",
+      "missable": false,
+      "status": "unconfirmed",
+      "sources": [
+        "PowerPyx"
+      ]
+    }
+  ]
 }
